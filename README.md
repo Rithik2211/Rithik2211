@@ -1,8 +1,17 @@
-
+[![MasterHead](/assests/rithikBanner.jpg)](https://www.linkedin.com/in/rithik-pranao-61221b18b/)
 <h1 align="center">👋,Hi, I'm Rithik Pranao</h1>
 <h3 align="center">I'm a Web3 developer skilled in Solidity, React.js, JavaScript, and MongoDB. I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.
 </h3>
+
 <img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik2211&label=Profile%20views&color=0e75b6&style=flat" alt="rithik2211" /> </p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rithik-pranao-61221b18b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 - 👨‍💻 All of my projects are available at Portfolio
   
