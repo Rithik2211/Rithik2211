@@ -50,9 +50,15 @@
     Solidity, Hardhat, Ether.js, Thirdweb, Ethereum, BlockChain
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik2211&show_icons=false&locale=en&layout=compact" alt="rithik2211" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik2211&show_icons=false&locale=en&layout=compact" alt="rithik2211" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik2211" alt="rithik2211" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik2211" alt="rithik2211" />
+</p>
 
