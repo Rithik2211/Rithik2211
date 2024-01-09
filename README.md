@@ -64,6 +64,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" />
 </p>
 
-(https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/javascript_basic_certificate.pdf)
-<iframe src="javascript_intermediate certificate.pdf" width="600" height="400"></iframe>
+<img align="left" alt="Coding" width="400" height="300" src="/assests/basic.jpg">
+<img align="right" alt="Coding" width="400" height="300" src="/assests/intermediate.jpg">
+
+
 
