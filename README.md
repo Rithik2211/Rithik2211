@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<p align="left">
+ <a href="https://www.hackerrank.com/profile/rithikpranao22" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&style=for-the-badge" alt="HackerRank Profile" height="30" />
+</a>
+</p>
+
 - 👨‍💻 All of my projects are available at Portfolio
   
 - 📫 How to reach me rithikpranao22@gmail.com
@@ -58,6 +64,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" />
 </p>
 
-<img align="left" alt="Coding" width="400" height="300" src="/assests/javascript_Basic">
-
+(https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/javascript_basic_certificate.pdf)
+<iframe src="javascript_intermediate certificate.pdf" width="600" height="400"></iframe>
 
