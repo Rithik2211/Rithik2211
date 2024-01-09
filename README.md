@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rithik-pranao-61221b18b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" height="30" />
   </a>
 </p>
 
