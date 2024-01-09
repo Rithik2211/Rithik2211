@@ -58,7 +58,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik2211" alt="rithik2211" />
-</p>
+<img align="left" alt="Coding" width="400" height="300" src="/assests/javascript_Basic">
+
 
