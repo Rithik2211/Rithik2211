@@ -1,5 +1,5 @@
-[![MasterHead](/assests/banner.jpg)](https://www.linkedin.com/in/rithik-pranao-61221b18b/)
-<h1 align="center">👋,Hi, I'm Rithik Pranao</h1>
+[![MasterHead](/assests/banner1.png)](https://www.linkedin.com/in/rithik-pranao-61221b18b/)
+
 <h3 align="center">I'm a Web3 developer skilled in Solidity, React.js, JavaScript, and MongoDB. I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.
 </h3>
 
