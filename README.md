@@ -19,7 +19,7 @@
 </a>
 </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://rithik2211.github.io/Rithik_Portfolio/" target="_blank"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://rithik2211.github.io/Rithik_Portfolio/" target="_blank"> My Portfolio </a>
   
 - 📫 How to reach me rithikpranao22@gmail.com
 
