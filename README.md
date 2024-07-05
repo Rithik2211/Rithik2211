@@ -51,31 +51,37 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+     <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elastic search" width="40" height="40"/> </a>
 </p>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
+ 
     
 <h3 align="left">Blockchain Technologies</h3>
 <p align="left">
-   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="60" height="40"/> </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="60" height="40"/> 
 </a>
   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="50" height="40"/> 
 </a>
   <a href="https://thirdweb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://thirdweb.com/favicon/favicon.ico" alt="thirdweb" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/T/thirdweb-logo-A5219DC0EE-seeklogo.com.png" alt="thirdweb" width="180" height="40"/> 
 </a>
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="ethereum" width="40" height="40"/> 
 </a>
-  <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/B/blockchain-logo-8895DDB5D6-seeklogo.com.png" alt="blockchain" width="40" height="40"/> 
+  <a href="https://solana.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" alt="solana" width="40" height="40"/> 
 </a>
   <a href="https://ipfs.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/I/ipfs-logo-28A1FDFC09-seeklogo.com.png" alt="ipfs" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/I/ipfs-logo-986C769021-seeklogo.com.png" alt="ipfs" width="60" height="40"/> 
+</a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" alt="metamask" width="50" height="40"/> 
+</a>
+  <a href="https://polygonscan.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="polygon" width="50" height="40"/>
 </a>
 </p>
 
