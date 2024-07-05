@@ -39,6 +39,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -49,11 +50,33 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+</a>
+    
 <h3 align="left">Blockchain Technologies</h3>
 <p align="left">
-    Solidity, Hardhat, Ether.js, Thirdweb, Ethereum, BlockChain
+   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
+</a>
+  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="40" height="40"/> 
+</a>
+  <a href="https://thirdweb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://thirdweb.com/favicon/favicon.ico" alt="thirdweb" width="40" height="40"/> 
+</a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/> 
+</a>
+  <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/B/blockchain-logo-8895DDB5D6-seeklogo.com.png" alt="blockchain" width="40" height="40"/> 
+</a>
+  <a href="https://ipfs.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/I/ipfs-logo-28A1FDFC09-seeklogo.com.png" alt="ipfs" width="40" height="40"/> 
+</a>
 </p>
 
 <p align="left">
