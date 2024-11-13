@@ -35,9 +35,9 @@
 </a>
 </p>
 
-##
+<hr>
 
-<h3><b><samp>Languages and Tools</samp></b></h3>
+<h3><b><samp>Languages and Tools :</samp></b></h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -79,9 +79,9 @@
 <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elastic search" width="50"/>
 </span>
  
-##
+<hr>
     
-<h3><b><samp>Blockchain Technologies</samp></b></h3>
+<h3><b><samp>Blockchain Technologies :</samp></b></h3>
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
@@ -105,7 +105,7 @@
   <img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="polygon" width="50"/>
 </span>
 
-##
+<hr>
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik2211&show_icons=false&locale=en&layout=compact" alt="rithik2211" 
@@ -116,14 +116,29 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik2211&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="rithik2211" width="400" height="200" />
 </p>
 
-##
+<hr> 
+  
+<h3><b><samp>Check out my Repositories</samp></b></h3>
 
-<div align="center">
-  <img width="400" height="300" src="/assests/basic.jpg">
-  <img width="400" height="300" src="/assests/intermediate.jpg">
-</div>
+<span>
+  <a href="https://github.com/Rithik2211/Rithik_Portfolio">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=Rithik_Portfolio" />
+  </a>
+  <a href="https://github.com/Rithik2211/eco-sync-main">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=eco-sync-main" />
+  </a>
+</span>
+  
+<hr>
 
-##
+<span>
+  <img width="400" height="300" src="/assests/basic.jpg" align="right">
+</span>
+<span>
+  <img width="400" height="300" src="/assests/intermediate.jpg" align="center">
+</span>
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+<hr>
+
+![](/assests/footer.png)
 
