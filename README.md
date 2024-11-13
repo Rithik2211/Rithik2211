@@ -42,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-005571?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -58,7 +59,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,redux,nextjs,linux,mongodb,mysql,html,css,nodejs,tailwind,aws,git,docker,kubernetes,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,swift,react,redux,nextjs,linux,mongodb,mysql,html,css,nodejs,tailwind,aws,git,docker,kubernetes,elasticsearch)](https://skillicons.dev)
  
 <hr>
     
