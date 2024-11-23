@@ -53,6 +53,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,7 +61,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,swift,react,redux,nextjs,linux,mongodb,mysql,html,css,nodejs,tailwind,aws,git,docker,kubernetes,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,swift,react,redux,nextjs,linux,mongodb,mysql,html,css,nodejs,flask,tailwind,aws,git,docker,kubernetes,elasticsearch)](https://skillicons.dev)
  
 <hr>
     
