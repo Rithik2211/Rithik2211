@@ -2,7 +2,7 @@
 
 <h3 align="center"><b><samp>I'm a Web3 developer skilled in Solidity, React.js, JavaScript, and MongoDB. I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.</samp></b></h3>
 
-<img align="right" alt="Coding" width="500" height="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik2211&label=Profile%20views&color=0e75b6&style=flat" alt="rithik2211" /> </p>
 
