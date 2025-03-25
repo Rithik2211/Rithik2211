@@ -2,7 +2,7 @@
 
 <h3 align="center"><b><samp>I'm a Web3 developer skilled in Solidity, React.js, JavaScript, and MongoDB. I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.</samp></b></h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding" width="500" height="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik2211&label=Profile%20views&color=0e75b6&style=flat" alt="rithik2211" /> </p>
 
@@ -105,12 +105,21 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-  <a href="https://github.com/Rithik2211/Rithik_Portfolio">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=Rithik_Portfolio" />
+  <a href="https://github.com/Rithik2211/book-store-management">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=book-store-management" />
   </a>
   <a href="https://github.com/Rithik2211/eco-sync-main">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=eco-sync-main" />
   </a>
+</span>
+
+<hr> 
+  
+<h3><b><samp>Check out my Badges</samp></b></h3>
+
+<span>
+  <img width="100" src="/assests/google-data-analytics-professional-certificate.2.png" alt="analytics">
+  <img width="100" src="/assests/aws-educate-introduction-to-generative-ai.png" alt="genAI">
 </span>
   
 <hr>
