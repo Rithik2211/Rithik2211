@@ -105,11 +105,11 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-  <a href="https://github.com/Rithik2211/book-store-management">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=book-store-management" />
-  </a>
   <a href="https://github.com/Rithik2211/eco-sync-main">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=eco-sync-main" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=eco-sync-main" />
+  </a>
+  <a href="https://github.com/Rithik2211/Promptora-ai-marketplace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithik2211&repo=Promptora-ai-marketplace" />
   </a>
 </span>
 
